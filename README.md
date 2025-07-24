@@ -9,8 +9,8 @@ Planets orbiting the Sun — all with smooth CSS animations!
 - Fully responsive layout
 
 ###  Live Demo:
-[View it here](https://nandani1414.github.io/Solar-System/)
+[View it here](https://nandani1414.github.io/Solar-System/solar.html)
 
 ---
 
-Made with 💻 by Nandani Gupta ✨
+Built with 💻, designed with ✨ — by Nandani Gupta
